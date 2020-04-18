@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 220, 226);
+    padding: 0;
+    margin: 0;
+    color: rgb(41, 3, 3);
+    font-size: 14pt;
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
+
+header {
+    padding: 0;
+    font-size: 18pt;
+    text-align: center;
+    background-color: rgb(252, 133, 150);
+
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+#biography, 
+#bio-image, 
+#contact {
+    float: left;
+}
+
+#bio {
+    width: 70%;
+}
+
+#contact-info {
+    width: 30%;
+}
+
+
+
